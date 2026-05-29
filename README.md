@@ -1,5 +1,10 @@
 # Sustainable Development Goals Dashboard Analysis:
 
+
+<img width="1677" height="936" alt="image" src="https://github.com/user-attachments/assets/3e4db51f-c3a9-4c1d-81c8-b6ca3d396b4c" />
+
+
+
 **Tools used:**
 
 - Power BI
